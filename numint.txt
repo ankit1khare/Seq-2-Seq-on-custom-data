@@ -1,0 +1,54 @@
+one one $ one interval one minute
+one two    $ one interval two minutes
+one three    $ one interval three minutes
+one four   $ one interval four minutes 
+one five    $ one interval five minutes 
+two two $ two intervals two minute
+two two    $ two intervals two minutes
+two three    $ two intervals three minutes
+two four   $ two intervals four minutes 
+two five    $ two intervals five minutes 
+two nine    $ two intervals nine minutes
+nine nine $ nine intervals nine minute
+nine six    $ nine intervals six minutes
+nine three    $ nine intervals three minutes
+nine four   $ nine intervals four minutes 
+nine five    $ nine intervals five minutes 
+six six $ six intervals six minute
+six three    $ six intervals three minutes
+six four   $ six intervals four minutes 
+six five    $ six intervals five minutes 
+six nine    $ six intervals nine minutes
+three four    $ three intervals four minutes
+seven one    $ seven intervals one minute
+seven three    $ seven intervals three minutes
+nine seven    $ nine intervals seven minutes
+four six    $ four intervals six minutes
+four three    $ four intervals three minutes
+three four    $ three intervals four minutes
+eight seven    $ eight intervals seven minutes
+nine eight    $ nine intervals eight minutes
+eight one    $ eight intervals one minute
+five seven    $ five intervals seven minutes
+five two    $ five intervals two minutes
+ten two    $ ten intervals two minutes
+five ten    $ five intervals ten minutes
+twelve six    $ twelve intervals six minutes
+twelve thirteen    $ twelve intervals thirteen minutes
+twenty three    $ twenty intervals three minutes
+eighteen nine    $ eighteen intervals nine minutes
+two twentythree    $ two intervals twentythree minutes
+nine twentyfour    $ nine intervals twentyfour minutes
+twentytwo three    $ twentytwo intervals three minutes
+five sixteen    $ five intervals sixteen minutes
+seventeen ten    $ seventeen intervals ten minutes
+fifteen two    $ fifteen intervals two minutes
+five eleven    $ five intervals eleven minutes
+eleven ten    $ eleven intervals ten minutes
+
+
+
+
+
+
+
